@@ -35,7 +35,7 @@
 
 #### Name: [HAARIKA_REDDY](https://github.com/Riks1)
 - Place: India
-- Bio: Student eager to learn
+- Bio: Student eager to learn coding
 - GitHub: [HAARIKA_28](https://github.com/Riks1) 
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
