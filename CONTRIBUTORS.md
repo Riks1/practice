@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [HAARIKA_REDDY](https://github.com/Riks1)
+- Place: India
+- Bio: Student eager to learn
+- GitHub: [HAARIKA_28](https://github.com/Riks1) 
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
